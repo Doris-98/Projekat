@@ -1,0 +1,10 @@
+C:\Users\Doris\source\repos\OOPKuca\OOPKuca\bin\Debug\OOPKuca.exe.config
+C:\Users\Doris\source\repos\OOPKuca\OOPKuca\bin\Debug\OOPKuca.exe
+C:\Users\Doris\source\repos\OOPKuca\OOPKuca\bin\Debug\OOPKuca.pdb
+C:\Users\Doris\source\repos\OOPKuca\OOPKuca\obj\Debug\OOPKuca.csprojAssemblyReference.cache
+C:\Users\Doris\source\repos\OOPKuca\OOPKuca\obj\Debug\OOPKuca.Form1.resources
+C:\Users\Doris\source\repos\OOPKuca\OOPKuca\obj\Debug\OOPKuca.Properties.Resources.resources
+C:\Users\Doris\source\repos\OOPKuca\OOPKuca\obj\Debug\OOPKuca.csproj.GenerateResource.cache
+C:\Users\Doris\source\repos\OOPKuca\OOPKuca\obj\Debug\OOPKuca.csproj.CoreCompileInputs.cache
+C:\Users\Doris\source\repos\OOPKuca\OOPKuca\obj\Debug\OOPKuca.exe
+C:\Users\Doris\source\repos\OOPKuca\OOPKuca\obj\Debug\OOPKuca.pdb
